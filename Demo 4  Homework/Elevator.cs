@@ -4,6 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+/* 
+ * Copyright (C) Finnish Software Oy (FiSo) 
+ * 
+ * This file is part of the MyFineSoftware project.
+ * 
+ * Created: <<20.01.2016>> 
+ * Authors: <<Sampsa Kautto>> 
+ */
 namespace Demo_4__Homework
 {
     class Elevator
@@ -15,6 +24,7 @@ namespace Demo_4__Homework
         private readonly int MinFloor = 1;
         private int floor;
 
+        //property
         public int Floor
         
         {

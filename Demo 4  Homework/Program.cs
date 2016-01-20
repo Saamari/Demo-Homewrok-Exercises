@@ -3,8 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// do { 
-//kysy kerros, siirrä hii
+
+/* 
+ * Copyright (C) Finnish Software Oy (FiSo) 
+ * 
+ * This file is part of the MyFineSoftware project.
+ * 
+ * Created: <<20.01.2016>> 
+ * Authors: <<Sampsa Kautto>> 
+ */
 namespace Demo_4__Homework
 {
     class Program
@@ -23,6 +30,7 @@ namespace Demo_4__Homework
                 
 
 
+           
             } while (number != -1);
 
 
